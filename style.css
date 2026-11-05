@@ -14,5 +14,29 @@ header {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 36px;
+    color: #fff2cc;
+}
+
+main {
+    margin: 30px auto;
+    width: 80%;
+}
+
+h2 {
+    color: #7b3f00;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 12px auto;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 350px;
+    color: #333;
 }
